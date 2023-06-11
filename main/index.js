@@ -1,3 +1,7 @@
+// begin with employee construct, add simular models for
+// departments, roles, for the three tables.
+
+const { prompt } = require("inquirer");
 
 
 class Employee { constructor( employeeid, firstname, lastname, 
