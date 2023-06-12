@@ -20,6 +20,7 @@
   "homepage": "https://github.com/gdutra2002/tstrackr#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
+    "console.table": "^0.10.0",
     "mysql2": "^2.1.0"
   }
 }
